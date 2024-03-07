@@ -198,4 +198,4 @@
 
    ### 5. Link of GitHub where this project is located
 
- https://github.com/RaresAndreiBrz/Project_Carturesti
+ https://github.com/RaresAndreiBrz/FastFood_App_Automation_Test_Project
